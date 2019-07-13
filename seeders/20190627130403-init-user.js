@@ -19,7 +19,7 @@ module.exports = {
     }, {
       id: 2,
       username: 'xmc123',
-      password: '$2b$10$RGOs3DDp.L3TM/v8HE0QmuVsCP8BlHK9wAaahAT5PGzs.Nf9MUVkC',
+      password: '$2b$10$RGOs3DDp.L3TM/v8HE0QmuVsCP8BlHK9wAaahAT5PGzs.Nf9MUVkC', // 密码默认是123456
       nickname: '谢石杰',
       sex: true,
       avatar_url: './images/user_images/avatar_2.jpeg',

@@ -16,6 +16,8 @@
 
 6. nodemon app.js
 
+> 相关数据信息在 seeders 目录的各个表内
+
 ```.env
 # server
 HOST = 127.0.0.1
