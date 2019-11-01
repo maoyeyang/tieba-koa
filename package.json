@@ -22,7 +22,7 @@
     "koa-static": "^5.0.0",
     "koa2-cors": "^2.0.6",
     "mysql2": "^1.6.5",
-    "sequelize": "^5.8.12"
+    "sequelize": "^5.15.1"
   },
   "devDependencies": {
     "sequelize-cli": "^5.5.0"
